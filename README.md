@@ -45,3 +45,13 @@ IceFireDB-Decentralization-SQLite数据库是一种去中心化SQLite数据库�
 IceFireDB-Decentralization-SQLProxy是去中心化SQL数据库组网系统，帮助web2传统SQL数据库数据去中心化。提供一套方便的机制构建全球分布式自动组网的存储系统。指令在组网的IceFireDB-Decentralization-SQLProxy之间自动同步，各IceFireDB-Decentralization-SQLProxy将数据写入MySQL存储。
 
 通过IceFireDB-Decentralization-SQLProxy去中心化组网，并提供web2程序对于SQL的读写支持，可以对于web2应用中常用的MySQL数据库读写场景进行去中心化数据同步的赋能。
+
+# 团队
+<p align="center">
+<img 
+    src="./team.png" >
+</p>
+
+# 免责声明
+
+当您使用本软件时，您已同意并声明本软件的作者、维护者和贡献者不对您遇到的任何风险、费用或问题负责。如果发现软件缺陷或BUG，请提交补丁帮助改进！
