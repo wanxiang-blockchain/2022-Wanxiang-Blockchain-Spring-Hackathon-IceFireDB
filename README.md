@@ -3,11 +3,14 @@
 
 <p align="center">
 <img 
-    src="https://raw.githubusercontent.com/IceFireDB/IceFireDB/main/logo.png" 
-    width="201" height="300" border="0" alt="IceFireDB">
+    src="./page1.png" >
 </p>
 
 # IceFireDB Storage Stack
+<p align="center">
+<img 
+    src="./page2.png" >
+</p>
 
 IceFireDB 是为 web3 和 web2 构建的数据库。该项目的核心使命是帮助应用快速实现去中心化和数据不变性。目前存储层支持磁盘、OSS、IPFS等多种存储方式。协议层目前支持 RESP 、SQL协议，未来将支持 GraphQL 协议。IceFireDB努力填补去中心化栈的空白，让web3应用的数据生态更加完整，并使 web2 应用程序更容易实现去中心化和数据不变性。
 
