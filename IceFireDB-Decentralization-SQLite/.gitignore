@@ -1,0 +1,9 @@
+.vscode
+bin
+.idea
+.DS_store
+.history
+release_bin
+test
+vendor
+sqlite.db
