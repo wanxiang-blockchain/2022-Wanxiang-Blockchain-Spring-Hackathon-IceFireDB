@@ -1,18 +1,16 @@
 # IceFireDB-Decentralization-Redis-proxy
 
-IceFireDB Redis Proxy是一种高性能、高可用性和用户友好的Resp协议群集代理解决方案。它支持P2P网络，是IceFireDB生态系统中的一个网络组件。
+
+IceFireDB-Decentralization-Redis-proxy是一种高性能、高可用性和用户友好的Resp协议群集代理解决方案。它支持P2P网络，是IceFireDB生态系统中的一个网络组件。
 1. 完整的数据源模式支持：单机、集群模式
 2. 丰富的命令支持
 3. 出色的群集状态管理和故障切换
 4. 优秀的流量控制策略：流量读写分离和多租户数据隔离
-5. 出色的命令遥测功能
-6. 使用接近云原生7的思维和基础能力打底。支持P2P自动组网，代理帮助传统Redis数据库实现数据分散。
+6. 支持P2P自动组网，代理帮助传统Redis数据库实现数据分散。
 
 ## How does it work?
 
 ![comp-archotecture](./docs/comp-archotecture.png)
-
-![usage-architecture](./docs/usage-architecture.png)
 
 
 ### Configuration
