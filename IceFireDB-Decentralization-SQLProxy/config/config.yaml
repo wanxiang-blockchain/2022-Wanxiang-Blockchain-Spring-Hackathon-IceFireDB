@@ -1,0 +1,28 @@
+server:
+  addr: ":33306" # 代理监听的端口，mysql-server，支持mysql-client直连接
+
+debug:  # 控制开启debug模式
+  enable: true
+  port: 17878
+
+# mysql
+mysql:
+  addr: "127.0.0.1:3306"
+  user: "root"
+  password: "root"
+  dbname: "test"
+  minAlive: 1 # 指定池将尝试维护的最小打开连接数
+  maxAlive: 64 # 指定池将尝试维护的最大打开连接数
+  maxIdle: 4 # 空闲连接最大数量
+
+# 用户列表
+userlist:
+  - user: host1
+    password: host1
+
+# p2p config
+p2p:
+  enable: true
+  service_discovery_id: "p2p_sqlproxy_service_test"
+  service_command_topic: "p2p_sqlproxy_service_topic_test"
+  service_discover_mode: "advertise" # advertise or announce
