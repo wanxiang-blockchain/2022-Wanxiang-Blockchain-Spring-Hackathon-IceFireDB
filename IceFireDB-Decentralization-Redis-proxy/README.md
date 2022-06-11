@@ -1,7 +1,7 @@
 # IceFireDB-Decentralization-Redis-proxy
 
+IceFireDB-Decentralization-Redis-proxy数据库代理为传统redis数据库增加去中心化的翅膀。提供一套方便的机制构建全球分布式自动组网的存储系统。指令在组网的redis 代理之间自动同步，redis代理将数据写入集群或单点redis存储。通过去中心化中间件网络代理，可以对于web2应用中常用的Redis数据库进行去中心化数据同步的赋能。
 
-IceFireDB-Decentralization-Redis-proxy是一种高性能、高可用性和用户友好的Resp协议群集代理解决方案。它支持P2P网络，是IceFireDB生态系统中的一个网络组件。
 1. 完整的数据源模式支持：单机、集群模式
 2. 丰富的命令支持
 3. 出色的群集状态管理和故障切换
