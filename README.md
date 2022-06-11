@@ -70,6 +70,29 @@ IceFireDB-Decentralization-SQLProxy是去中心化SQL数据库组网系统，帮
 
 [演示视频](https://user-images.githubusercontent.com/21053373/173170210-df2d1539-acc1-4d93-8695-cc0ddc5d723b.mp4)
 
+
+# 应用场景 - 云原生结构下的新模式
+
+## 一、去中心化边缘计算
+<p align="center">
+<img 
+    src="./3.1.png" >
+</p>
+
+## 二、去中心化边缘数据存储
+
+<p align="center">
+<img 
+    src="./3.2.png" >
+</p>
+
+## 三、去中心化边缘时序数据库
+<p align="center">
+<img 
+    src="./3.3.png" >
+</p>
+
+
 # 团队
 <p align="center">
 <img 
