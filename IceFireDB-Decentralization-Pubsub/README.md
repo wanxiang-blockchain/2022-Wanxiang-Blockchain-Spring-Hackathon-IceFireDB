@@ -2,7 +2,7 @@
 
 IceFireDB Decentralization Pubsub是一个高性能、高可用性和去中心化订阅系统。
 
-它可以无缝地将使用redis发布和订阅的应用程序迁移到icefiredb订阅系统
+它可以无缝地将使用redis发布和订阅的web2应用程序迁移到去中心化p2p订阅网络中
 
 ## How does it work?
 
