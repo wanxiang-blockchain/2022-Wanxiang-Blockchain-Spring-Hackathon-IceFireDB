@@ -8,10 +8,10 @@ IceFireDB Decentralization Pubsub是一个高性能、高可用性和去中心�
 ## How does it work?
 
 ### 场景介绍
-<img width="1061" alt="image" src="https://user-images.githubusercontent.com/52234994/173174090-7c2f084b-4ccc-4c56-983b-210486f13a60.png">
+<img width="1070" alt="image" src="https://user-images.githubusercontent.com/52234994/173174080-95775add-c287-4f43-943b-686b903e67b7.png">
 
 ### 系统架构
-<img width="1070" alt="image" src="https://user-images.githubusercontent.com/52234994/173174080-95775add-c287-4f43-943b-686b903e67b7.png">
+<img width="1061" alt="image" src="https://user-images.githubusercontent.com/52234994/173174090-7c2f084b-4ccc-4c56-983b-210486f13a60.png">
 
 该应用程序适用于同一网络或不同网络上的多个节点。专用网络上NAT后面的节点可以相互通信。使用Kademlia DHT和IPFs网络发现对等发现和路由。通过支持redis pub-sub协议，构建了一个全局分布式Web3发布-订阅系统。
 
