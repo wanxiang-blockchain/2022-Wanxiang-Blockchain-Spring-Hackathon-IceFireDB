@@ -1,0 +1,16 @@
+server:
+  addr: ":23307" # 代理监听的端口，mysql-server，支持mysql-client直连接
+
+sqlite:
+  filename: "sqlite.db"
+
+debug:  # 控制开启debug模式
+  enable: true
+  port: 17878
+
+# p2p config
+p2p:
+  enable: true
+  service_discovery_id: "p2p_sqlite_service_test"
+  service_command_topic: "p2p_sqlite_service_topic_test"
+  service_discover_mode: "advertise" # advertise or announce
