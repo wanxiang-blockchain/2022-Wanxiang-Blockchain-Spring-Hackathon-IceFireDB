@@ -20,6 +20,9 @@ IceFireDB 项目组成：
 * [IceFireDB-Decentralization-SQLite](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-SQLite)
 * [IceFireDB-Decentralization-SQLProxy](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-SQLProxy)
 
+# 黑客马拉松-项目讲解
+
+[项目讲解视频](https://res.cloudinary.com/malloc/video/upload/v1654959861/Hackathon_2022/%E9%A1%B9%E7%9B%AE%E8%AE%B2%E8%A7%A3_tappbv.mp4)
 
 # 项目组成
 ## 一、[IceFireDB-Decentralization-Pubsub](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-Pubsub)
