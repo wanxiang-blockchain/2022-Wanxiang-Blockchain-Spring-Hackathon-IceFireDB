@@ -10,7 +10,11 @@ IceFireDB-Decentralization-Redis-proxy数据库代理为传统redis数据库增�
 
 ## How does it work?
 
-![comp-archotecture](./docs/comp-archotecture.png)
+### 场景介绍
+<img width="1188" alt="image" src="https://user-images.githubusercontent.com/52234994/173173974-851cad34-f7dc-4f06-9194-b5921d4928a2.png">
+
+### 系统架构
+<img width="1159" alt="image" src="https://user-images.githubusercontent.com/52234994/173173986-3ed997ae-4c1e-4c34-b0b5-012ff6d6af69.png">
 
 
 ### Configuration
