@@ -21,7 +21,7 @@ IceFireDB 项目组成：
 * [IceFireDB-Decentralization-SQLProxy](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-SQLProxy)
 
 
-# 子项目介绍
+# 项目组成
 ## 一、IceFireDB-Decentralization-Pubsub
 IceFireDB-Decentralization-Pubsub提供了方便的去中心化订阅命令。通过支持原生redis发布订阅协议及指令，使web2下使用redis发布订阅的应用可以无感的迁移到IceFireDB订阅系统中。
 
