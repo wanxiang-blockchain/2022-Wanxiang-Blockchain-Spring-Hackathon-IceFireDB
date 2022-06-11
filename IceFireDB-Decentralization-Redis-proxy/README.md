@@ -1,6 +1,4 @@
-![banner](./docs/logo.png)
-# IceFireDB-Proxy
-[![Build](https://github.com/IceFireDB/IceFireDB-Proxy/actions/workflows/main.yml/badge.svg)](https://github.com/IceFireDB/IceFireDB-Proxy/actions/workflows/main.yml) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/IceFireDB/IceFireDB-Proxy)](https://github.com/IceFireDB/IceFireDB-Proxy/blob/master/go.mod)
+# IceFireDB-Decentralization-Redis-proxy
 
 IceFireDB Redis Proxy是一种高性能、高可用性和用户友好的Resp协议群集代理解决方案。它支持P2P网络，是IceFireDB生态系统中的一个网络组件。
 1. 完整的数据源模式支持：单机、集群模式
