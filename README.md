@@ -6,7 +6,6 @@
     src="./page1.png" >
 </p>
 
-# IceFireDB Storage Stack
 <p align="center">
 <img 
     src="./page2.png" >
