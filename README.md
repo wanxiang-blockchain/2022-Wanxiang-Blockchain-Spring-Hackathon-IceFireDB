@@ -1,6 +1,6 @@
 # 2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB
 
-[IceFireDB project address](https://github.com/IceFireDB/IceFireDB)
+[Please jump to the official open source repository of IceFireDB, thank you.](https://github.com/IceFireDB/IceFireDB)
 
 <p align="center">
 <img 
