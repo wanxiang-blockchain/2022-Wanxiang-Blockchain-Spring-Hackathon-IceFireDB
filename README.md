@@ -16,17 +16,6 @@ IceFireDB 是为 web3 和 web2 构建的数据库。该项目的核心使命是�
 
 IceFireDB努力填补去中心化栈的空白，让web3应用的数据生态更加完整，并使 web2 应用程序更容易实现去中心化和数据不变性。
 
-IceFireDB 项目组成：
-
-* [IceFireDB-Decentralization-Pubsub](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-Pubsub)
-* [IceFireDB-Decentralization-Redis-proxy](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-Redis-proxy)
-* [IceFireDB-Decentralization-SQLite](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-SQLite)
-* [IceFireDB-Decentralization-SQLProxy](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-SQLProxy)
-
-# 黑客马拉松-项目讲解
-
-[项目讲解视频](https://res.cloudinary.com/malloc/video/upload/v1654959861/Hackathon_2022/%E9%A1%B9%E7%9B%AE%E8%AE%B2%E8%A7%A3_tappbv.mp4)
-
 # 项目组成
 ## 一、[IceFireDB-Decentralization-Pubsub](https://github.com/wanxiang-blockchain/2022-Wanxiang-Blockchain-Spring-Hackathon-IceFireDB/tree/main/IceFireDB-Decentralization-Pubsub)
 IceFireDB-Decentralization-Pubsub提供了方便的去中心化订阅命令。通过支持原生redis发布订阅协议及指令，使web2下使用redis发布订阅的应用可以无感的迁移到IceFireDB订阅系统中。
